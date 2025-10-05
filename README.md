@@ -1,1 +1,1 @@
-Blunc Games
+At Blunc Games, we create bold, imaginative games that push boundaries and spark curiosity. Whether you're exploring strange new worlds or mastering fast-paced challenges, our games are built to surprise, engage, and inspire players of all kinds. As an independent studio, we’re passionate about storytelling, strong gameplay mechanics, and delivering unique experiences that leave a lasting impression. Dive in and discover what makes Blunc Games unlike anything else.
