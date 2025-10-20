@@ -299,3 +299,7 @@ xandr.com, 13293, RESELLER, f5ab79cb980f11d1
 xandr.com, 8916, RESELLER
 xandr.com, 3318, RESELLER
 xandr.com, 13799, RESELLER
+indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
+themediagrid.com, NC7LXT, RESELLER, 35d5010d7789b49d
+outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
+video.unrulymedia.com, 657436911, RESELLER
